@@ -1,28 +1,23 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
   "stickers" : [
     {
       "filename" : "Havlax sticker.sticker"
     },
     {
+      "filename" : "HavASticker-CrossCountry.sticker"
+    },
+    {
       "filename" : "HUDA sticker.sticker"
     },
     {
-      "filename" : "Untitled.sticker"
-    },
-    {
-      "filename" : "Interact Sticket.sticker"
-    },
-    {
-      "filename" : "Octane for fords.sticker"
-    },
-    {
-      "filename" : "Sticker.sticker"
-    },
-    {
-      "filename" : "FordsLogo.sticker"
-    },
-    {
-      "filename" : "sticker (1).sticker"
+      "filename" : "Untitled-1 (1).sticker"
     },
     {
       "filename" : "fords footy sticker.sticker"
@@ -31,28 +26,52 @@
       "filename" : "HUDA.sticker"
     },
     {
+      "filename" : "Octane for fords.sticker"
+    },
+    {
+      "filename" : "FordsLogo.sticker"
+    },
+    {
+      "filename" : "Untitled-1 (2).sticker"
+    },
+    {
       "filename" : "H.sticker"
     },
     {
-      "filename" : "HavASticker-CrossCountry.sticker"
+      "filename" : "Haverford.sticker"
     },
     {
-      "filename" : "Untitled-1.sticker"
+      "filename" : "h-pride.sticker"
     },
     {
-      "filename" : "CS Sticker.sticker"
+      "filename" : "Untitled-1 (3).sticker"
+    },
+    {
+      "filename" : "FordTough.sticker"
     },
     {
       "filename" : "Untitled-2.sticker"
     },
     {
-      "filename" : "Untitled-1 (1).sticker"
+      "filename" : "Untitled.sticker"
+    },
+    {
+      "filename" : "Sticker.sticker"
+    },
+    {
+      "filename" : "sticker (1).sticker"
+    },
+    {
+      "filename" : "Untitled-1.sticker"
+    },
+    {
+      "filename" : "Interact Sticket.sticker"
+    },
+    {
+      "filename" : "CS Sticker.sticker"
     },
     {
       "filename" : "janos.sticker"
-    },
-    {
-      "filename" : "Haverford.sticker"
     },
     {
       "filename" : "Robotics_Sticker.sticker"
@@ -61,29 +80,10 @@
       "filename" : "BuiltFordTough.sticker"
     },
     {
-      "filename" : "Untitled-1 (3).sticker"
-    },
-    {
-      "filename" : "h-pride.sticker"
-    },
-    {
-      "filename" : "Untitled-1 (2).sticker"
-    },
-    {
       "filename" : "HaverfordCodes.sticker"
     },
     {
       "filename" : "haverford compsci.sticker"
-    },
-    {
-      "filename" : "FordTough.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "regular"
-  }
+  ]
 }
